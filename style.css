@@ -395,7 +395,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "WHO IS WITH ME";
+    content: "who wuth me";
 }
 .teams .carousel .card{
     background: #222;
